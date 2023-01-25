@@ -9,7 +9,7 @@
     - CSS: Tailwind CSS
 
 * Project:
-    - Blogposts can be created
+    - Posts can be created
     - Comments can be created
     
 
