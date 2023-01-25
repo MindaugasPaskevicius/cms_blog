@@ -1,27 +1,29 @@
-# Next.js + Tailwind CSS Example
+# Modern Blog App with React | GraphQL, NextJS, Tailwind CSS
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
+### About project
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+* Used techonologies:
+    - frontend: Next.JS
+    - backend: GraphQL
+    - CSS: Tailwind CSS
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+* Project:
+    - Blogposts can be created
+    - Comments can be created
+    
 
-## How to use
+### Launching project
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+- Clone repository frontend part.
+- https://github.com/MindaugasPaskevicius/cms_blog.git
+- npm install - wait for everything to be ready.
+- npm run dev - to start project in a browser.
+- http://localhost:3000
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Author
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+Project is created by Mindaugas Paškevičius.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Github - MindaugasPaskevicius.
